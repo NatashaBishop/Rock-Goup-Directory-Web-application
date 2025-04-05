@@ -44,3 +44,4 @@ This project will help you learn about :
     HTML.
     Event creation and display.
     Client-server.
+It was completed as a group project during a felloship in 01 Founders
